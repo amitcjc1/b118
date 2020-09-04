@@ -8,6 +8,12 @@ public class Demo
 		System.out.println("Summ method");
 	}
 	
+	
+	public void sub()
+	{
+		System.out.println("Summ method");
+	}
+	
 public static void main(String[] args) {
 	
 	System.out.println("Hello Main method");
